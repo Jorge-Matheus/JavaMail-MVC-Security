@@ -1,88 +1,7 @@
+
 # 🚀 Sistema de Autenticação com Spring Boot
 
 Este é um projeto de autenticação de usuários desenvolvido com Spring Boot, Spring Security, envio de e-mails via SMTP e integração com DataTables para exibição dinâmica de dados.
-  <hr>
-  
-  Login Page with /login  <hr>
-
-  
-  ![login](https://github.com/user-attachments/assets/758462b9-1c9e-44d3-8c1e-efcb73444537)
-
-
-<hr>
-
-Register Page /cadastro with e-mail, password and repeat password fields
-
-<hr>
-
-![register](https://github.com/user-attachments/assets/84268f78-5410-4713-85ec-0375445ca24a)
-
-
-
-<hr>
-
-After Register your will receive an e-mail for confirmation
-
-<hr>
-
-
-
-![after-register-verification](https://github.com/user-attachments/assets/88747f4b-73c8-4e64-a4d7-daff64e6de85)
-
-
-<hr>
-
-You need confirmation your account
-
-<hr>
-
-![template-cadastro-verification](https://github.com/user-attachments/assets/2fd28088-54ef-4222-b809-6c375a4ac197)
-
-
-<hr>
-
-
-Registration active, you are ready to enter
-
-<hr>
-
-![after-verification-register-can-login](https://github.com/user-attachments/assets/f3b73aa6-87b0-4ab6-a6a1-f9442e07ff4e)
-
-<hr>
-
-Password recovery function, enter your e-mail
- 
-<hr>
-
-![forget-password-email](https://github.com/user-attachments/assets/d6f56858-c7cc-4244-862c-a2e8e55c8906)
-
-<hr>
-
-After entering your email you will receive a template in your email with a code to change your password
-
-<hr>
-
-![code-for-enter-with-new-password](https://github.com/user-attachments/assets/6f56e53e-18cf-4f9e-924c-8559955a4aae)
-
-<hr>
-
-
-Then enter your email, your new password and the code you received in your email.
-
-<hr>
-
-![enter-a-new-password-with-code](https://github.com/user-attachments/assets/4e245109-47af-4ff3-a0f7-6b1511244c7c)
-
-<hr>
-
-
-Ready!!! Password changed successfully
-
-<hr>
-
-![already-password-reset-success](https://github.com/user-attachments/assets/a2cbf540-cb35-482c-bc9f-1a5a862925e3)
-
-
 
 
 ## 🛠 Tecnologias Utilizadas
@@ -172,6 +91,91 @@ Sinta-se à vontade para contribuir com melhorias! Basta seguir os passos:
 
 ## 📜 Licença
 Este projeto está sob a licença MIT - veja o arquivo `LICENSE` para mais detalhes.
+
+<hr>
+
+  
+  Login Page with /login  <hr>
+
+  
+  ![login](https://github.com/user-attachments/assets/758462b9-1c9e-44d3-8c1e-efcb73444537)
+
+
+<hr>
+
+Register Page /cadastro with e-mail, password and repeat password fields
+
+<hr>
+
+![register](https://github.com/user-attachments/assets/84268f78-5410-4713-85ec-0375445ca24a)
+
+
+
+<hr>
+
+After Register your will receive an e-mail for confirmation
+
+<hr>
+
+
+
+![after-register-verification](https://github.com/user-attachments/assets/88747f4b-73c8-4e64-a4d7-daff64e6de85)
+
+
+<hr>
+
+You need confirmation your account
+
+<hr>
+
+![template-cadastro-verification](https://github.com/user-attachments/assets/2fd28088-54ef-4222-b809-6c375a4ac197)
+
+
+<hr>
+
+
+Registration active, you are ready to enter
+
+<hr>
+
+![after-verification-register-can-login](https://github.com/user-attachments/assets/f3b73aa6-87b0-4ab6-a6a1-f9442e07ff4e)
+
+<hr>
+
+Password recovery function, enter your e-mail
+ 
+<hr>
+
+![forget-password-email](https://github.com/user-attachments/assets/d6f56858-c7cc-4244-862c-a2e8e55c8906)
+
+<hr>
+
+After entering your email you will receive a template in your email with a code to change your password
+
+<hr>
+
+![code-for-enter-with-new-password](https://github.com/user-attachments/assets/6f56e53e-18cf-4f9e-924c-8559955a4aae)
+
+<hr>
+
+
+Then enter your email, your new password and the code you received in your email.
+
+<hr>
+
+![enter-a-new-password-with-code](https://github.com/user-attachments/assets/4e245109-47af-4ff3-a0f7-6b1511244c7c)
+
+<hr>
+
+
+Ready!!! Password changed successfully
+
+<hr>
+
+![already-password-reset-success](https://github.com/user-attachments/assets/a2cbf540-cb35-482c-bc9f-1a5a862925e3)
+
+
+
 
 ---
 💻 Desenvolvido por [Jorge Matheus](https://github.com/Jorge-Matheus) 🚀
